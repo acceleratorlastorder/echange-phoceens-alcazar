@@ -8,8 +8,9 @@ donc sur la présentation des outils est comment se former
 
 donc déjà on explique qu'un block note et note pad suffise déjà
 
-no joke j'ai passé un entretiens avec test JS/HTML/CSS le mec m'a fais faire ça sur notepad et lui il taf sur ça H24 donc bon
-codecademy, openclassroom comme dab :wink:
+no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.
+codecademy, openclassroom comme dab :wink:.
+
 ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonction/commandes qui pops
 ensuite petite explication sur et après codecademy et openclass room car c'est bien beau mais par expérience suivre bêtement ses tutos bah ça ne mène à rien à un moment il faut comprendre le fonctionement
 mais de manière native en gros dans sa tête le schema se déssine déjà
