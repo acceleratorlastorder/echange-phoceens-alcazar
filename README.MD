@@ -11,12 +11,14 @@ sur la présentation des outils est comment se former.
 donc démarage en expliquan qu'avec un simple notepad/block note c'est possible de faire ses premier pas voir même plus
 
 *no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.*
-codecademy, openclassroom comme dab :wink:.
 
-Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonction/commandes qui pops
-ensuite petite explication sur et après codecademy et openclass room car c'est bien beau mais par expérience suivre bêtement ses tutos bah ça ne mène à rien à un moment il faut comprendre le fonctionement
-mais de manière native en gros dans sa tête le schema se déssine déjà
+codecademy, openclassroom comme dab :wink:.
+Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonctions/commandes qui apparaissent comme par magie
+ensuite petite explication sur et après codecademy et openclassroom car c'est bien beau mais par expérience suivre bêtement les tutos bah ça ne mène bien quelque par mais pas super loin, donc à un moment il faut comprendre le fonctionement de ce que l'on écrit mais de manière native en gros dans sa tête le schema se déssine déjà.
+
+*image dans sa tête la procédure lorsque l'on pense à une fonction que l'on souhaite faire*
 si je veux faire sa je push puis je pop je return sur un objet qui sera affiché etc.....
+
 à cet instant lorsqu'une personne est assez à l'aise il faut expliquer que pour aller plus loin il va faloir aller dans le dur de la matière
 la DOC
 donc MDN et pour les plus courageux.
