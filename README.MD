@@ -15,7 +15,7 @@ donc démarage en expliquan qu'avec un simple notepad/block note c'est possible 
 codecademy, openclassroom comme dab :wink:.
 ---
 
-![alt text]("http://s2.lemde.fr/image/2016/11/16/534x0/5032058_6_4602_l-exercice-de-maths-qui-s-inspire-du_4fb8449813ed5240248e5088c76c8644.png")
+![alt text](http://s2.lemde.fr/image/2016/11/16/534x0/5032058_6_4602_l-exercice-de-maths-qui-s-inspire-du_4fb8449813ed5240248e5088c76c8644.png "DAB")
 ---
 
 Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonctions/commandes qui apparaissent comme par magie
