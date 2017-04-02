@@ -16,8 +16,9 @@ codecademy, openclassroom comme dab :wink:.
 Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonctions/commandes qui apparaissent comme par magie
 ensuite petite explication sur et après codecademy et openclassroom car c'est bien beau mais par expérience suivre bêtement les tutos bah ça ne mène bien quelque par mais pas super loin, donc à un moment il faut comprendre le fonctionement de ce que l'on écrit mais de manière native en gros dans sa tête le schema se déssine déjà.
 
-*_image dans sa tête la procédure lorsque l'on pense à une fonction que l'on souhaite faire_*
-si je veux faire sa je push puis je pop je return sur un objet qui sera affiché etc.....
+*_image dans sa tête la procédure lorsque l'on pense à une fonction que l'on souhaite faire._*
+
+"Si je veux faire sa je push puis je pop je return sur un objet qui sera affiché etc....."
 
 à cet instant lorsqu'une personne est assez à l'aise il faut expliquer que pour aller plus loin il va faloir aller dans le dur de la matière
 la DOC
