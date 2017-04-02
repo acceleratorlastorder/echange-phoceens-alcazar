@@ -13,6 +13,8 @@ donc démarage en expliquan qu'avec un simple notepad/block note c'est possible 
 *no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.*
 
 codecademy, openclassroom comme dab :wink:.
+
+
 ![alt text][logo]
 
 [logo]: http://s2.lemde.fr/image/2016/11/16/534x0/5032058_6_4602_l-exercice-de-maths-qui-s-inspire-du_4fb8449813ed5240248e5088c76c8644.png "DAB"
