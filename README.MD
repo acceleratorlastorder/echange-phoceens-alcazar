@@ -1,6 +1,6 @@
 # Petit déroulé des atelier 3 et 4
 
-j'ai pensé pour la partie 3 donc notre première entrée en matière
+### j'ai pensé pour la partie 3 (l'atelier 3) donc notre première entrée en matière
 
 :prend son petit carnet:
 
@@ -25,9 +25,10 @@ et j'estime que tout le monde n'est pas billlingue alors oui ça sera un point s
 mais compte tenu de la diversité mettre les gens sur des site full murica sera une bonne solution pour catégorisé les gens et les perdre (edited)
 
 
-Atelier 4 :
+### Atelier 4 :
 
-je n'ai pas trop été inspiré il va falloir creuser un peu plus par là.
+**je n'ai pas trop été inspiré il va falloir creuser un peu plus par là.**
+
 donc découverte de code.org ok
 l'algoritmique, comment penser à la manière des machine les instruction à effectuer pour faire tel ou tel action
 après pour aller plus loin après code.org on peut tenter scratch ou codecombat
