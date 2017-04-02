@@ -1,5 +1,7 @@
 # Petit déroulé des atelier 3 et 4
 
+---
+
 ### j'ai pensé pour la partie 3 (l'atelier 3) donc notre première entrée en matière
 
 :prend son petit carnet:
@@ -8,7 +10,7 @@ sur la présentation des outils est comment se former.
 
 donc démarage en expliquan qu'avec un simple notepad/block note c'est possible de faire ses premier pas voir même plus
 
-no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.
+*no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.*
 codecademy, openclassroom comme dab :wink:.
 
 Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonction/commandes qui pops
