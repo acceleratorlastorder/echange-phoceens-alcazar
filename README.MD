@@ -4,14 +4,14 @@
 
 :prend son petit carnet:
 
-donc sur la présentation des outils est comment se former
+sur la présentation des outils est comment se former.
 
-donc déjà on explique qu'un block note et note pad suffise déjà
+donc démarage en expliquan qu'avec un simple notepad/block note c'est possible de faire ses premier pas voir même plus
 
 no joke j'ai passé un entretien avec test JS/HTML/CSS ils m'ont fais faire ça sur notepad et l'un d'entre eux travaille vraiment sur ça H24 donc bon.
 codecademy, openclassroom comme dab :wink:.
 
-ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonction/commandes qui pops
+Ensuite pour aller plus loin vim et atom selon les préférence j'imagine la bonne vielle console, ou l'ide avec toute les fonction/commandes qui pops
 ensuite petite explication sur et après codecademy et openclass room car c'est bien beau mais par expérience suivre bêtement ses tutos bah ça ne mène à rien à un moment il faut comprendre le fonctionement
 mais de manière native en gros dans sa tête le schema se déssine déjà
 si je veux faire sa je push puis je pop je return sur un objet qui sera affiché etc.....
@@ -25,6 +25,7 @@ d'ailleur stackoverflow sera pas de la partie car c'est ouvert à tous
 et j'estime que tout le monde n'est pas billlingue alors oui ça sera un point sur le quel il faudra en toucher deux mot car oui c'est important
 mais compte tenu de la diversité mettre les gens sur des site full murica sera une bonne solution pour catégorisé les gens et les perdre (edited)
 
+---
 
 ### Atelier 4 :
 
