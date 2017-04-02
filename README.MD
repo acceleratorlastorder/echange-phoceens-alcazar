@@ -1,4 +1,4 @@
-**petit déroulé des atelier 3 et 4**
+# Petit déroulé des atelier 3 et 4
 
 j'ai pensé pour la partie 3 donc notre première entrée en matière
 
